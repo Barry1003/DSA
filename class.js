@@ -48,4 +48,6 @@ const find_num = ((arr, target) => {
             return "value dodes not exist";
         }
     });
-});
+}
+//error );
+//error 

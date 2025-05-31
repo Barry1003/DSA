@@ -58,3 +58,5 @@ const find_num = ((arr: number[], target: number): string => {
         }
     })
 }
+
+//error 
